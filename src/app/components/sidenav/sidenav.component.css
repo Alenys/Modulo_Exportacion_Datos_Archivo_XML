@@ -1,0 +1,39 @@
+
+
+.button1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    position: fixed;
+    top: 38vh;
+    left: 0px;
+    width: 14%;
+    background-color:transparent;
+    border-color: transparent;
+    height: 3rem;
+    transition: 1s;
+}
+.button2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 3rem;
+    color: aliceblue;
+    position: fixed;
+    top: 50vh;
+    left: 0px;
+    width: 14%;
+    background-color:transparent;
+    border-color: transparent;
+    transition: 1s;
+}
+.button1:hover{
+    color:#202A62 ;
+    background-color:aliceblue ;
+    height: 3.1rem;
+    
+}
+.button2:hover{
+    color:#202A62 ;
+  
+    background-color: aliceblue;
+    height: 3.1rem;
+    
+}

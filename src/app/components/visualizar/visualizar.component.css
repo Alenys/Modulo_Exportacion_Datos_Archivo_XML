@@ -1,0 +1,27 @@
+.mostrar{
+    height: 100%;
+    width: 85%;
+    margin: 5%;
+    margin-left: 7%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 80%;
+    justify-content: center;
+    grid-gap: 2%;
+}
+
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #202A62;
+    display: inline-block;
+   width: 80%;
+    font-size: large;
+    
+    margin: 5%;
+
+}
+.contenido{
+    margin: 5%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
